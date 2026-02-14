@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Teklit Gebrerufael</h1>
 <h3 align="center">Engineer in Love with machine</h3>
 
-- 📫 How to reach me **teklit.gebrer@gmail.com**
+- 📫 reach me via **teklit.gebrer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
